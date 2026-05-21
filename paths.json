@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/dxdmc/:/",
-    "/content/dxdmc/configuration:/.helix/config.json",
-    "/content/dxdmc/metadata:/metadata.json"
+    "/content/axis/:/",
+    "/content/axis/configuration:/.helix/config.json",
+    "/content/axis/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/dxdmc/"
+    "/content/axis/"
   ]
 }

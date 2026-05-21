@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p22953-e148511.adobeaemcloud.com/bin/franklin.delivery/dxdmc61/eds-universal-editor/main"
+    url: "https://author-p22953-e148511.adobeaemcloud.com/bin/franklin.delivery/dxdmc61/eds-migration-accelerator/main"
     type: "markup"
     suffix: ".html"

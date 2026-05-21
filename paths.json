@@ -1,7 +1,10 @@
 {
   "mappings": [
-    "/content/aem-block-collection/:/",
-    "/content/aem-block-collection/metadata:/metadata.json",
-    "/content/aem-block-collection/configuration:/.helix/config.json"
+    "/content/dxdmc/:/",
+    "/content/dxdmc/configuration:/.helix/config.json",
+    "/content/dxdmc/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/dxdmc/"
   ]
 }

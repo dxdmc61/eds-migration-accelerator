@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p22953-e148511.adobeaemcloud.com/bin/franklin.delivery/dxdmc61/eds-migration-accelerator/main"
+    url: "https://author-p22953-e148511.adobeaemcloud.com/bin/franklin.delivery/dxdmc61/eds-migration-accelerator/idfc"
     type: "markup"
     suffix: ".html"

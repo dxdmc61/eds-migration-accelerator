@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/axis/:/",
-    "/content/axis/configuration:/.helix/config.json",
-    "/content/axis/metadata:/metadata.json"
+    "/content/idfc/:/",
+    "/content/idfc/configuration:/.helix/config.json",
+    "/content/idfc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/axis/"
+    "/content/idfc/"
   ]
 }

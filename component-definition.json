@@ -55,6 +55,21 @@
               }
             }
           }
+        },
+        {
+          "title": "Root",
+          "id": "root",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "idfc/components/root",
+                "template": {
+                  "name": "root",
+                  "model": "root"
+                }
+              }
+            }
+          }
         }
       ]
     },

@@ -55,6 +55,21 @@
               }
             }
           }
+        },
+        {
+          "title": "Page",
+          "id": "page",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "suncrop/components/page",
+                "template": {
+                  "name": "page",
+                  "model": "page"
+                }
+              }
+            }
+          }
         }
       ]
     },
